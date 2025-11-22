@@ -4,6 +4,10 @@ Este projeto é um sistema de gerenciamento de biblioteca desenvolvido em lingua
 
 ## 🚀 Funcionalidades
 
+
+https://github.com/user-attachments/assets/3637aa04-eb78-4543-acfd-1f134ee0d448
+
+
 O sistema oferece as seguintes opções através de um menu interativo:
 
 1.  **Cadastrar Livro:** Registra novos livros com título, autor, editora e edição.
